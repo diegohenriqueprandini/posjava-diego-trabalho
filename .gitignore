@@ -1,6 +1,14 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+/.classpath
+/.clover
+/.factorypath
+/.idea
+/.project
+/.settings
+/.springBeans
+/.metadata
+/build
+/target
+/bin
+/*.iml
+/*.tmp
+/*.log
